@@ -8,9 +8,18 @@ D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.dll
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+<<<<<<< HEAD
+D:\Csharp-albin\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+D:\Csharp-albin\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+D:\Csharp-albin\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+D:\Csharp-albin\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+D:\Csharp-albin\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+D:\Csharp-albin\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+=======
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.dll
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+>>>>>>> 1baad9a214eec5659dbc8192e1a630f5602f9194

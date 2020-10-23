@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
+D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\
+=======
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\
+>>>>>>> 1baad9a214eec5659dbc8192e1a630f5602f9194
 GUI
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+<<<<<<< HEAD
+D:\Csharp-albin\Projektuppgift\GUI\App.xaml
+3-1626550818
+
+5-1899916139
+193-1322830098
+=======
 C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\App.xaml
 3-1626550818
 
 5-1899916139
 193142183124
+>>>>>>> 1baad9a214eec5659dbc8192e1a630f5602f9194
 Home\HomePage.xaml;Login\LoginPage.xaml;MainWindow.xaml;
 
 False
