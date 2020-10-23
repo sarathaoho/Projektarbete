@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ny Användare\\.nuget\\packages\\": {}
+    "C:\\Users\\albin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
+      "projectUniqueName": "D:\\Csharp-albin\\Projektuppgift\\Logic\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
-      "packagesPath": "C:\\Users\\Ny Användare\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\obj\\",
+      "projectPath": "D:\\Csharp-albin\\Projektuppgift\\Logic\\Logic.csproj",
+      "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
+      "outputPath": "D:\\Csharp-albin\\Projektuppgift\\Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ny Användare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
