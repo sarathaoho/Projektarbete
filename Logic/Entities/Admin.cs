@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Logic.Entities
 {
-    public class Admin : User
+    public class Admin : User, IUser
     {
 
         private Admin()
