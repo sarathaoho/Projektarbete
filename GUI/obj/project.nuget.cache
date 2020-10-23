@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qgz3YeI/vZYbNY6fTdWZbeu12nxafCWgJpWP2ZvPocjHOFidWw6OPMcr0EhWZ0FuTH4hS8Dm4W5odm8Ln6XmYg==",
+  "dgSpecHash": "V3ENvsTC4SQUfuTCr87R+pjfFaRp3DSiu81/ZeErB38yawTevV/hKUYOx0p6GjCmwqR5H/QuLPSPkVQX7508kg==",
   "success": true,
-  "projectFilePath": "D:\\Csharp-albin\\Projektuppgift\\GUI\\GUI.csproj",
+  "projectFilePath": "D:\\Projektarbete\\GUI\\GUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qlW2pS5oE/LKBXRlZvRrHQjYxMv/aoNDAYK6J6r1Xai1mkoyVKL8KSIEb7ppoQaPMNY8O2EnATlehTjP8NKZQ==",
+  "dgSpecHash": "Q54AeSYFFi8SRdVfIC4lYt+FcFwuJsYCSI3TNTDW5y7Ett2kaQ+3joW6neXoNW09oivyRlkANU40TlPYoR0D7A==",
   "success": true,
-  "projectFilePath": "D:\\Csharp-albin\\Projektuppgift\\Logic\\Logic.csproj",
+  "projectFilePath": "D:\\Projektarbete\\Logic\\Logic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

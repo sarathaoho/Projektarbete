@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp-albin\\Projektuppgift\\Logic\\Logic.csproj": {}
+    "D:\\Projektarbete\\Logic\\Logic.csproj": {}
   },
   "projects": {
-    "D:\\Csharp-albin\\Projektuppgift\\Logic\\Logic.csproj": {
+    "D:\\Projektarbete\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp-albin\\Projektuppgift\\Logic\\Logic.csproj",
+        "projectUniqueName": "D:\\Projektarbete\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "D:\\Csharp-albin\\Projektuppgift\\Logic\\Logic.csproj",
+        "projectPath": "D:\\Projektarbete\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp-albin\\Projektuppgift\\Logic\\obj\\",
+        "outputPath": "D:\\Projektarbete\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
