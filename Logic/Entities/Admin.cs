@@ -5,9 +5,10 @@ using System.IO;
 
 namespace Logic.Entities
 {
-    public class Admin : User //???
+    public class Admin : User
     {
 
+<<<<<<< HEAD
         public Admin()
         {
             if (!File.Exists(@"DAL\User.json"))
@@ -21,6 +22,15 @@ namespace Logic.Entities
             {
 
             }
+=======
+        private Admin()
+        {
+            
+
+            //"Username": "Bosse",
+            //"Password": "Meckarn123",
+            //"MechanicID": "BOSV670725"
+>>>>>>> 1baad9a214eec5659dbc8192e1a630f5602f9194
         }
 
         public void AddMechanic()
