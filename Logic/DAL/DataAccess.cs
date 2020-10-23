@@ -14,14 +14,18 @@ namespace Logic.DAL
         private readonly string path = $@"DAL\{typeof(T).Name}.json";
 
 
-
-        public DataAccess()
+        /// <summary>
+        ///Skapar upp en ny fil om det inte redan finns en och lägger in en tom placeholderlista
+        /// </summary>
+        public void CreateNewFile()
         {
-            //Skapar upp en ny fil om det inte redan finns en fil för den valda datatypen.
+           
             if (!File.Exists(path))
             {
-                var entityfile = File.Create(path);
-                entityfile.Close();
+                var entityFile = File.Create(path);
+                entityFile.Close();
+                var emptyList = new List<T>();
+                AddEntity(emptyList);
             }
         }
 
@@ -32,6 +36,8 @@ namespace Logic.DAL
         /// 
         public List<T> GetEntities()
         {
+            CreateNewFile();
+
             StreamReader sr = new StreamReader(path);
 
             string jsonString = sr.ReadToEnd();
@@ -43,6 +49,7 @@ namespace Logic.DAL
 
         public void AddEntity(List<T> entities)
         {
+            CreateNewFile();
             StreamWriter sw = new StreamWriter(path);
 
             JsonSerializerOptions options = new JsonSerializerOptions

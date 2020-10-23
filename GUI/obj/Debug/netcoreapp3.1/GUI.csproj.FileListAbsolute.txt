@@ -1,57 +1,27 @@
-<<<<<<< HEAD
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\DAL\User.json
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.exe
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.dll
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.dll
-D:\Csharp-albin\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\App.g.cs
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.dll
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
-D:\Csharp-albin\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
-=======
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\DAL\User.json
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.exe
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.dll
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.dll
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\App.g.cs
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.dll
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
-C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
->>>>>>> 1baad9a214eec5659dbc8192e1a630f5602f9194
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\DAL\User.json
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
