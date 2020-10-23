@@ -8,3 +8,9 @@ D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.dll
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.pdb

@@ -19,7 +19,7 @@ namespace Logic.Entities
             FirstName = firstname;
             LastName = lastname;
             DateOfBirth = dateofbirth;
-            Competences = new List<string>();
+            Competences = new List<string>(); //Skills?
             CalculateAge();
             SetMechanicID();
         }

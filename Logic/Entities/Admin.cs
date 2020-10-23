@@ -4,8 +4,17 @@ using System.Text;
 
 namespace Logic.Entities
 {
-    public class Admin : User //???
+    public class Admin : User
     {
+
+        private Admin()
+        {
+            
+
+            //"Username": "Bosse",
+            //"Password": "Meckarn123",
+            //"MechanicID": "BOSV670725"
+        }
 
         public void AddMechanic()
         {
