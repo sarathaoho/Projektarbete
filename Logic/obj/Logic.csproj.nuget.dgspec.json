@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {}
+    "D:\\Projektarbete\\Logic\\Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {
+    "D:\\Projektarbete\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
+        "projectUniqueName": "D:\\Projektarbete\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\Sara H\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\obj\\",
+        "projectPath": "D:\\Projektarbete\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
+        "outputPath": "D:\\Projektarbete\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sara H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

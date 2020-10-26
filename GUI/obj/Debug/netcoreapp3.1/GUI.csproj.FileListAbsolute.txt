@@ -1,4 +1,3 @@
-D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\DAL\User.json
 D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.exe
 D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
 D:\Projektarbete\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json

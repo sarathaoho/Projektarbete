@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sara H\\.nuget\\packages\\": {}
+    "C:\\Users\\albin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
+      "projectUniqueName": "D:\\Projektarbete\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
-      "packagesPath": "C:\\Users\\Sara H\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\obj\\",
+      "projectPath": "D:\\Projektarbete\\GUI\\GUI.csproj",
+      "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projektarbete\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sara H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj"
+            "D:\\Projektarbete\\Logic\\Logic.csproj": {
+              "projectPath": "D:\\Projektarbete\\Logic\\Logic.csproj"
             }
           }
         }
