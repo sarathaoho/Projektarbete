@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Q54AeSYFFi8SRdVfIC4lYt+FcFwuJsYCSI3TNTDW5y7Ett2kaQ+3joW6neXoNW09oivyRlkANU40TlPYoR0D7A==",
+  "dgSpecHash": "2AAo1cImqgn85s1cAym1HizA5gpZj4Lw6b1+Af0PnOt4bLj2X0BQizkEB8FqNsdIn131OpUWnxpKEdz+mooOuw==",
   "success": true,
-  "projectFilePath": "D:\\Projektarbete\\Logic\\Logic.csproj",
+  "projectFilePath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

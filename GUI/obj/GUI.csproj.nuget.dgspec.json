@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projektarbete\\GUI\\GUI.csproj": {}
+    "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\GUI\\GUI.csproj": {}
   },
   "projects": {
-    "D:\\Projektarbete\\GUI\\GUI.csproj": {
+    "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\GUI\\GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projektarbete\\GUI\\GUI.csproj",
+        "projectUniqueName": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
         "projectName": "GUI",
-        "projectPath": "D:\\Projektarbete\\GUI\\GUI.csproj",
-        "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projektarbete\\GUI\\obj\\",
+        "projectPath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\Ny Användare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ny Användare\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Projektarbete\\Logic\\Logic.csproj": {
-                "projectPath": "D:\\Projektarbete\\Logic\\Logic.csproj"
+              "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj"
               }
             }
           }
@@ -63,17 +63,17 @@
         }
       }
     },
-    "D:\\Projektarbete\\Logic\\Logic.csproj": {
+    "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projektarbete\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "D:\\Projektarbete\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projektarbete\\Logic\\obj\\",
+        "projectPath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\Ny Användare\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ny Användare\\Documents\\GitHub\\Projektuppgift\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ny Användare\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
