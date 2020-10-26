@@ -1,0 +1,12 @@
+{
+  "Mechanics": [
+    {
+      "MechanicID": "BOAN670523",
+      "FirstName": "Bosse",
+      "LastName": "Andersson",
+      "Age": 53,
+      "DateOfBirth": "1967-05-23T00:00:00",
+      "Skills": []
+    }
+  ]
+}

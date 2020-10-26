@@ -43,4 +43,34 @@
 ehthumbs.db
 Thumbs.db
 
+<<<<<<< HEAD
 gitignore
+Logic/obj/Debug/netcoreapp3.1/Logic.pdb
+Logic/obj/Debug/netcoreapp3.1/Logic.dll
+Logic/obj/Debug/netcoreapp3.1/Logic.csprojAssemblyReference.cache
+Logic/obj/Debug/netcoreapp3.1/Logic.csproj.FileListAbsolute.txt
+Logic/obj/Debug/netcoreapp3.1/Logic.csproj.CoreCompileInputs.cache
+Logic/obj/Debug/netcoreapp3.1/Logic.pdb
+Logic/obj/Debug/netcoreapp3.1/Logic.dll
+Logic/obj/Debug/netcoreapp3.1/Logic.csprojAssemblyReference.cache
+Logic/obj/Debug/netcoreapp3.1/Logic.csproj.FileListAbsolute.txt
+Logic/obj/Debug/netcoreapp3.1/Logic.csproj.CoreCompileInputs.cache
+.vs/Projektuppgift/v16/.suo
+.vs/Projektuppgift/DesignTimeBuild/.dtbcache.v2
+GUI/bin/Debug/netcoreapp3.1/GUI.dll
+GUI/bin/Debug/netcoreapp3.1/GUI.pdb
+GUI/bin/Debug/netcoreapp3.1/Logic.dll
+GUI/bin/Debug/netcoreapp3.1/Logic.pdb
+GUI/obj/Debug/netcoreapp3.1/GUI.csprojAssemblyReference.cache
+GUI/obj/Debug/netcoreapp3.1/GUI.dll
+GUI/obj/Debug/netcoreapp3.1/GUI.pdb
+GUI/obj/Debug/netcoreapp3.1/GUI_MarkupCompile.i.cache
+Logic/obj/Debug/netcoreapp3.1/Logic.csprojAssemblyReference.cache
+Logic/obj/Debug/netcoreapp3.1/Logic.dll
+Logic/obj/Debug/netcoreapp3.1/Logic.pdb
+Logic/bin/Debug/netcoreapp3.1/Logic.pdb
+Logic/bin/Debug/netcoreapp3.1/Logic.dll
+.vs/Projektuppgift/DesignTimeBuild/.dtbcache.v2
+=======
+gitignore
+>>>>>>> main
