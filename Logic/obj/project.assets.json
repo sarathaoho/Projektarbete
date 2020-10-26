@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\albin\\.nuget\\packages\\": {}
+    "C:\\Users\\Sara H\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projektarbete\\Logic\\Logic.csproj",
+      "projectUniqueName": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "D:\\Projektarbete\\Logic\\Logic.csproj",
-      "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projektarbete\\Logic\\obj\\",
+      "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
+      "packagesPath": "C:\\Users\\Sara H\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sara H\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
