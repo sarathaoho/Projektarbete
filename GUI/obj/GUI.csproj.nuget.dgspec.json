@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\GUI\\GUI.csproj": {}
+    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\GUI\\GUI.csproj": {
+    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\GUI\\GUI.csproj",
+        "projectUniqueName": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
         "projectName": "GUI",
-        "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\GUI\\GUI.csproj",
+        "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
         "packagesPath": "C:\\Users\\Sara H\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\GUI\\obj\\",
+        "outputPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara H\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\Logic\\Logic.csproj": {
-                "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\Logic\\Logic.csproj"
+              "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\Logic\\Logic.csproj": {
+    "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\Logic\\Logic.csproj",
+        "projectPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\Sara H\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\C-Sharp\\Projektuppgift\\Logic\\obj\\",
+        "outputPath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara H\\AppData\\Roaming\\NuGet\\NuGet.Config",

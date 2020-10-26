@@ -43,6 +43,7 @@
 ehthumbs.db
 Thumbs.db
 
+<<<<<<< HEAD
 gitignore
 Logic/obj/Debug/netcoreapp3.1/Logic.pdb
 Logic/obj/Debug/netcoreapp3.1/Logic.dll
@@ -70,3 +71,6 @@ Logic/obj/Debug/netcoreapp3.1/Logic.pdb
 Logic/bin/Debug/netcoreapp3.1/Logic.pdb
 Logic/bin/Debug/netcoreapp3.1/Logic.dll
 .vs/Projektuppgift/DesignTimeBuild/.dtbcache.v2
+=======
+gitignore
+>>>>>>> main
