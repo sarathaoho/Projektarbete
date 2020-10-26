@@ -35,6 +35,9 @@ namespace Logic.DAL
 =======
                 var entityFile = File.Create(path);
                 entityFile.Close();
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             }
         }

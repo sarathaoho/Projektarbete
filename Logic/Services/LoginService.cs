@@ -9,6 +9,7 @@ namespace Logic.Services
     public class LoginService
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         private DataAccess<User> _db;
 
         public LoginService()
@@ -16,6 +17,8 @@ namespace Logic.Services
             _db = new DataAccess<User>();
             
 =======
+=======
+>>>>>>> Stashed changes
         private DataAccess<UserDB> _userdb;
         private DataAccess<MechanicDB> _mechanicdb;
         private UserDB _users;
@@ -28,8 +31,13 @@ namespace Logic.Services
             _mechanicdb = new DataAccess<MechanicDB>();
             _users = new UserDB();
             _mechanics = new MechanicDB();
+<<<<<<< Updated upstream
 
 
+=======
+
+
+>>>>>>> Stashed changes
             var path = @"DAL\UserDB.json";
             if (!File.Exists(path))
             {
@@ -44,6 +52,9 @@ namespace Logic.Services
                 _users.Users.Add(AddDefaultAdmin());
                 _userdb.AddEntity(_users);
             }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         }
 
@@ -52,10 +63,13 @@ namespace Logic.Services
             var users = _userdb.GetEntities();
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             List<User> users = _db.GetEntities();
 
             return users.Exists(user => user.Username.Equals(username) && user.Password.Equals(password));
 =======
+=======
+>>>>>>> Stashed changes
             return _users.Users.Exists(user => user.Username.Equals(username) && user.Password.Equals(password));
         }
 
