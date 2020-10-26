@@ -20,6 +20,7 @@ namespace Logic.DAL
             //Skapar upp en ny fil om det inte redan finns en fil för den valda datatypen.
             if (!File.Exists(path))
             {
+<<<<<<< Updated upstream
                 var entityfile = File.Create(path);
                 entityfile.Close();
 
@@ -31,6 +32,10 @@ namespace Logic.DAL
                 {
                     AddStandardMechanic();
                 }
+=======
+                var entityFile = File.Create(path);
+                entityFile.Close();
+>>>>>>> Stashed changes
             }
         }
 
@@ -39,18 +44,18 @@ namespace Logic.DAL
         /// </summary>
         /// <returns></returns>
         /// 
-        public List<T> GetEntities()
+        public T GetEntities()
         {
             StreamReader sr = new StreamReader(path);
 
             string jsonString = sr.ReadToEnd();
-            List<T> entities = JsonSerializer.Deserialize<List<T>>(jsonString);
+            var entity = JsonSerializer.Deserialize<T>(jsonString);
             sr.Close();
 
-            return entities;
+            return entity;
         }
 
-        public void AddEntity(List<T> entities)
+        public void AddEntity(T listclass)
         {
             StreamWriter sw = new StreamWriter(path);
 
@@ -60,7 +65,7 @@ namespace Logic.DAL
 
             };
 
-            var jsonString = JsonSerializer.Serialize(entities, options);
+            var jsonString = JsonSerializer.Serialize(listclass, options);
 
             sw.Write(jsonString);
             sw.Close();
