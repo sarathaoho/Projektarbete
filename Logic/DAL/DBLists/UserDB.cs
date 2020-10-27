@@ -7,11 +7,11 @@ namespace Logic.DAL
 {
     public class UserDB
     {
-        public List<User> Users { get; set; }
+        public List<User> DBList { get; set; }
 
          public UserDB()
         {
-            Users = new List<User>();
+            DBList = new List<User>();
         }
     }
 }

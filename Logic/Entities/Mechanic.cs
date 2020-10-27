@@ -10,6 +10,7 @@ namespace Logic.Entities
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int Age { get; set; }
+        public List<Errand> NumberOfErrands { get; set; }
         public DateTime DateOfBirth { get; set; }
         public List<String> Skills { get; set; }
 
@@ -20,6 +21,7 @@ namespace Logic.Entities
             LastName = lastname;
             DateOfBirth = dateofbirth;
             Skills = new List<string>();
+            NumberOfErrands = new List<Errand>();
 
             CalculateAge();
             SetMechanicID();

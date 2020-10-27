@@ -5,7 +5,7 @@ using System.Xml.Schema;
 
 namespace Logic.Entities.Vehicles
 {
-    class Car : Vehicle
+    public class Car : Vehicle
     {
         public string CarType { get; set; }
         public bool HasTowbar { get; set; }

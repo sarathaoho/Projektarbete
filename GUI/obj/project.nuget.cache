@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+nyIUoX3uBtOeW7rPUN1fOO7WQyK/GNcSAFOLJNzishqFffBK8mGpucrpQtbAP5eJe9coJyBqys5Y7roiXyzQ==",
+  "dgSpecHash": "eWfuwYnklLRh1Wp+Yn9lOWveZZcKydyR+1Z7sii3B7DW/EXt5ImaDW/FVdL0epbYPOSIqbQwmdPV297LEk/Ikg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sara H\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "D:\\Projektarbete\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albin\\.nuget\\packages\\extended.wpf.toolkit\\4.0.1\\extended.wpf.toolkit.4.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Extended.Wpf.Toolkit 4.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Extended.Wpf.Toolkit",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
