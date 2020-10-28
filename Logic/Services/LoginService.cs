@@ -1,24 +1,12 @@
 ﻿using Logic.DAL;
 using Logic.Entities;
 using System;
-using System.Collections.Generic;
-using System.Text;
+using System.IO;
 
 namespace Logic.Services
 {
     public class LoginService
     {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        private DataAccess<User> _db;
-
-        public LoginService()
-        { 
-            _db = new DataAccess<User>();
-            
-=======
-=======
->>>>>>> Stashed changes
         private DataAccess<UserDB> _userdb;
         private DataAccess<MechanicDB> _mechanicdb;
         private UserDB _users;
@@ -31,52 +19,35 @@ namespace Logic.Services
             _mechanicdb = new DataAccess<MechanicDB>();
             _users = new UserDB();
             _mechanics = new MechanicDB();
-<<<<<<< Updated upstream
 
-
-=======
-
-
->>>>>>> Stashed changes
             var path = @"DAL\UserDB.json";
             if (!File.Exists(path))
             {
                 var adminFile = File.Create(path);
                 adminFile.Close();
-                _users.Users.Add(AddDefaultAdmin());
+                _users.DBList.Add(AddDefaultAdmin());
                 _userdb.AddEntity(_users);
 
             }
             else if (new FileInfo(path).Length == 0)
             {
-                _users.Users.Add(AddDefaultAdmin());
+                _users.DBList.Add(AddDefaultAdmin());
                 _userdb.AddEntity(_users);
             }
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
         }
 
         public bool Login(string username, string password)
         {
-            var users = _userdb.GetEntities();
+            _users = _userdb.GetEntities();
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            List<User> users = _db.GetEntities();
-
-            return users.Exists(user => user.Username.Equals(username) && user.Password.Equals(password));
-=======
-=======
->>>>>>> Stashed changes
-            return _users.Users.Exists(user => user.Username.Equals(username) && user.Password.Equals(password));
+            return _users.DBList.Exists(user => user.Username.Equals(username) && user.Password.Equals(password));
         }
 
         private Admin AddDefaultAdmin()
         {
             var mechanic = new Mechanic("Bosse", "Andersson", new DateTime(1967, 05, 23));
-            _mechanics.Mechanics.Add(mechanic);
+            _mechanics.DBList.Add(mechanic);
             _mechanicdb.AddEntity(_mechanics);
 
 
@@ -86,7 +57,6 @@ namespace Logic.Services
             admin.UserID = mechanic.MechanicID;
 
             return admin;
->>>>>>> Stashed changes
         }
     }
 }

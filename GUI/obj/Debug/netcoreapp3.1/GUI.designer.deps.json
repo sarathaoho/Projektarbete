@@ -6,15 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "GUI/1.0.0": {
-        "dependencies": {
-          "Extended.Wpf.Toolkit": "4.0.1",
-          "Logic": "1.0.0"
-        },
-        "runtime": {
-          "GUI.dll": {}
-        }
-      },
       "Extended.Wpf.Toolkit/4.0.1": {
         "runtime": {
           "lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll": {
@@ -73,31 +64,16 @@
             "locale": "zh-Hans"
           }
         }
-      },
-      "Logic/1.0.0": {
-        "runtime": {
-          "Logic.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "GUI/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Extended.Wpf.Toolkit/4.0.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-K8BoXvwokEJTiVkOH4L8FGeWaT0TptzgXJsFI/FlfPA1TSzhgNcrHJtxDFecAYwHNU3wnUjSGZ/YMq5gR5TGag==",
       "path": "extended.wpf.toolkit/4.0.1",
       "hashPath": "extended.wpf.toolkit.4.0.1.nupkg.sha512"
-    },
-    "Logic/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

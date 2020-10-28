@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GUI.ErrandScreen;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -21,6 +22,18 @@ namespace GUI.Home
         public HomePage()
         {
             InitializeComponent();
+        }
+
+        public void Errand_CLICK(object sender, RoutedEventArgs e)
+        {
+            ErrandPageAdmin errandPage = new ErrandPageAdmin();
+
+            this.NavigationService.Navigate(errandPage);
+        }
+
+        public void Skills_CLICK(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

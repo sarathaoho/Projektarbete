@@ -7,10 +7,10 @@ namespace Logic.DAL
 {
     public class MechanicDB
     {
-        public List<Mechanic> Mechanics { get; set; }
+        public List<Mechanic> DBList { get; set; }
         public MechanicDB()
         {
-            Mechanics = new List<Mechanic>();
+            DBList = new List<Mechanic>();
         }
     }
 }
