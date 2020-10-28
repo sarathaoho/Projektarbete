@@ -25,3 +25,29 @@ D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
 D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.dll
 D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
 D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\Ny Användare\Documents\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
