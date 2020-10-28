@@ -7,3 +7,12 @@ D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.dll
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
 D:\Projektarbete\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.pdb

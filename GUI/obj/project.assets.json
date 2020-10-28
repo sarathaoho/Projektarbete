@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projektarbete\\GUI\\GUI.csproj",
+      "projectUniqueName": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "D:\\Projektarbete\\GUI\\GUI.csproj",
+      "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projektarbete\\GUI\\obj\\",
+      "outputPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,8 +135,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projektarbete\\Logic\\Logic.csproj": {
-              "projectPath": "D:\\Projektarbete\\Logic\\Logic.csproj"
+            "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\Logic\\Logic.csproj"
             }
           }
         }
@@ -173,7 +173,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   },

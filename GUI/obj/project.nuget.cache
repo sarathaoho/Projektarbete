@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eWfuwYnklLRh1Wp+Yn9lOWveZZcKydyR+1Z7sii3B7DW/EXt5ImaDW/FVdL0epbYPOSIqbQwmdPV297LEk/Ikg==",
+  "dgSpecHash": "SdVPLnMp5Myf08njF7sTs4rmjAiCufQ65gQpiPSAZmLQRxdH/e3EY4EHS7JdcsZs2W/7sZhWN9RT+5eWpznZbg==",
   "success": true,
-  "projectFilePath": "D:\\Projektarbete\\GUI\\GUI.csproj",
+  "projectFilePath": "C:\\Users\\albin\\OneDrive\\Dokument\\GitHub\\Projektuppgift\\GUI\\GUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\albin\\.nuget\\packages\\extended.wpf.toolkit\\4.0.1\\extended.wpf.toolkit.4.0.1.nupkg.sha512"
   ],

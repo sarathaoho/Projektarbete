@@ -11,7 +11,7 @@ namespace Logic.DAL
     public class DataAccess<T>
     {
         //Path == T:s beteckning. Exempelvis DataAccess<User> gör så att pathen blir Dal\User.Json
-        private string path = $@"DAL\{typeof(T).Name}.json";
+        private readonly string path = $@"DAL\{typeof(T).Name}.json";
 
 
         /// <summary>
@@ -32,6 +32,10 @@ namespace Logic.DAL
 
         public void AddEntity(T listclass)
         {
+
+            var oldentities = GetEntities();
+
+           
             StreamWriter sw = new StreamWriter(path);
 
             JsonSerializerOptions options = new JsonSerializerOptions
@@ -45,43 +49,5 @@ namespace Logic.DAL
             sw.Write(jsonString);
             sw.Close();
         }
-
-        /// <summary>
-        /// Overloadar addentity metoden om det inte finns några users i databasen.
-        /// </summary>
-        /// <param name="users"></param>
-        private void AddEntity(List<User> users)
-        {
-            StreamWriter sw = new StreamWriter(path);
-
-            JsonSerializerOptions options = new JsonSerializerOptions
-            {
-                WriteIndented = true,
-
-            };
-
-            var jsonString = JsonSerializer.Serialize(users, options);
-
-            sw.Write(jsonString);
-            sw.Close();
-        }  
-        private void AddEntity(List<Mechanic> users)
-        {
-            StreamWriter sw = new StreamWriter(path);
-
-            JsonSerializerOptions options = new JsonSerializerOptions
-            {
-                WriteIndented = true,
-
-            };
-
-            var jsonString = JsonSerializer.Serialize(users, options);
-
-            sw.Write(jsonString);
-            sw.Close();
-        }
-
-      
-
     }
 }

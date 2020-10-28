@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Projektarbete\GUI\obj\Debug\netcoreapp3.1\
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\
 GUI
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-D:\Projektarbete\GUI\App.xaml
+C:\Users\albin\OneDrive\Dokument\GitHub\Projektuppgift\GUI\App.xaml
 5744889394
 
 71818478820
-198633686424
+198-971208501
 Errands\Admin\ErrandPageAdmin.xaml;Errands\Admin\NewErrand\NewErrandPage.xaml;Home\HomePage.xaml;Login\LoginPage.xaml;MainWindow.xaml;
 
-True
+False
 
