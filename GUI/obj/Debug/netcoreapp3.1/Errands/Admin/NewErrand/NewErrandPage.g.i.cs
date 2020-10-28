@@ -182,7 +182,7 @@ namespace GUI.Errands.Admin.NewErrand {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GUI;component/errands/admin/newerrand/newerrandpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GUI;V1.0.0.0;component/errands/admin/newerrand/newerrandpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\..\Errands\Admin\NewErrand\NewErrandPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
